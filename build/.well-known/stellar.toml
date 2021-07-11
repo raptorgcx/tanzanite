@@ -1,26 +1,26 @@
 NETWORK_PASSPHRASE="Public Global Stellar Network ; September 2015"
 
 ACCOUNTS=[
-"GDYQ4J76NUUSA2WISSGFE6JE4S52WB7VJWMEW2E4JVIIXP23VREFKIOE"
+"GCYDEZDPIVYWQSC6ROPKPQYNCZYYNJJIOV6HM7NBNV7N462KUKIVXFRZ"
 ]
 VERSION="2.0.0"
 
 [DOCUMENTATION]
-ORG_NAME="XLMFORD"
-ORG_TWITTER="@XLMFORD"
-ORG_LOGO="https://i.ibb.co/Q8GqT7s/Ford-logo-flat-svg.png"
-ORG_OFFICIAL_EMAIL="fordxlm@tutanota.com"
+ORG_NAME="GemSociety"
+ORG_TWITTER="@GEMSOCIETY"
+ORG_LOGO="https://i.ibb.co/zHXtP6T/tanzanite-resent-image-1-e1517172482616.jpg"
+ORG_OFFICIAL_EMAIL="gemsociety@tutanota.com"
 
 
 [[CURRENCIES]]
-code="XLMFORD"
-issuer="GDYQ4J76NUUSA2WISSGFE6JE4S52WB7VJWMEW2E4JVIIXP23VREFKIOE"
+code="TanzaniteGem"
+issuer="GCYDEZDPIVYWQSC6ROPKPQYNCZYYNJJIOV6HM7NBNV7N462KUKIVXFRZ"
 anchor_asset="false"
-name="Stellar Ford"
-desc="Ford Motor Company, commonly known as Ford, is an American multinational automaker that has its main headquarters in Dearborn, Michigan, a suburb of Detroit. It was founded by Henry Ford and incorporated on June 16, 1903. The company sells automobiles and commercial vehicles under the Ford brand, and most luxury cars under the Lincoln brand."
-conditions="EVERYONE CAN ADD THIS ASSET "
-image="https://i.ibb.co/Q8GqT7s/Ford-logo-flat-svg.png"
-fixed_number=5000000
-max_number=5000000
+name="TanzaniteCrystal"
+desc="Tanzanite is noted for its remarkably strong trichroism, appearing alternately blue, violet and burgundy depending on crystal orientation. Tanzanite can also appear differently when viewed under different lighting conditions. The blues appear more evident when subjected to fluorescent light and the violet hues can be seen readily when viewed under incandescent illumination. In its rough state tanzanite is colored a reddish brown to clear, and it requires heat treatment to remove the brownish 'veil'."
+conditions="Only 5-million Tanzanite Gems released,each one has it’s special value on the market,for richly colored AAA Tanzanite, 1ct is approximately worth $300-$425 per carat. 2ct sizes reach $450-$650 per carat. 3 carats and up will reach $650-$750 per carat. The changes taking place in Tanzania makes tanzanite a very good investment stone."
+image="https://i.ibb.co/zHXtP6T/tanzanite-resent-image-1-e1517172482616.jpg"
+fixed_number=10000000
+max_number=10000000
 is_unlimited=false
-#XLMFORD was issued using the open and inclusive Stellar blockchain network.
+#TanzaniteGem was issued using the open and inclusive Stellar blockchain network.
